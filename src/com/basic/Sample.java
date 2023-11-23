@@ -8,7 +8,8 @@ public class Sample extends Customer{
 		Sample s = new Sample();
 		s.sampleId();
 		s.customerId();
-		
+		System.out.println("development work");
+		System.out.println("done by arifa");
 	}
 
 }
